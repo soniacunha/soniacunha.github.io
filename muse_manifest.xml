@@ -1,0 +1,1993 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.soniacunha.pt" resolutions="1x,2x" timestamp="1520973881349">
+  <folder name="css">
+    <file name="site_global.css" crc="3937500795"/>
+    <file name="master_a-master-en.css" crc="215625085" ref="castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:urban-art:summer-pavilion:the-way-of-the-buyi"/>
+    <file name="nomq_preview_master_a-master-en.css" crc="441950935" ref="castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:urban-art:summer-pavilion:the-way-of-the-buyi"/>
+    <file name="master_a-master.css" crc="434935468" ref="pt-centro-de-arte-urbana:about-en:pt-oporto-residence:index:pt-summer-pavilion:about:pt-the-way-of-the-buyi:pt-castelo-de-cartas:contacts:pt-tese-de-mestrado:home-en:pt-neighbourhood"/>
+    <file name="nomq_preview_master_a-master.css" crc="148122826" ref="pt-centro-de-arte-urbana:about-en:pt-oporto-residence:index:pt-summer-pavilion:about:pt-the-way-of-the-buyi:pt-castelo-de-cartas:contacts:pt-tese-de-mestrado:home-en:pt-neighbourhood"/>
+    <file name="pt-centro-de-arte-urbana.css" crc="4273698798" ref="pt-centro-de-arte-urbana"/>
+    <file name="nomq_pt-centro-de-arte-urbana.css" crc="433219425" ref="pt-centro-de-arte-urbana"/>
+    <file name="iefonts_pt-centro-de-arte-urbana.css" crc="3824530138" ref="pt-centro-de-arte-urbana"/>
+    <file name="castelo-de-cartas.css" crc="330757614" ref="castelo-de-cartas"/>
+    <file name="nomq_castelo-de-cartas.css" crc="425752450" ref="castelo-de-cartas"/>
+    <file name="about-en.css" crc="4063167159" ref="about-en"/>
+    <file name="nomq_about-en.css" crc="3950285948" ref="about-en"/>
+    <file name="iefonts_about-en.css" crc="3824530138" ref="about-en"/>
+    <file name="pt-oporto-residence.css" crc="525812277" ref="pt-oporto-residence"/>
+    <file name="nomq_pt-oporto-residence.css" crc="475883846" ref="pt-oporto-residence"/>
+    <file name="iefonts_pt-oporto-residence.css" crc="3824530138" ref="pt-oporto-residence"/>
+    <file name="neighbourhood.css" crc="371351029" ref="neighbourhood"/>
+    <file name="nomq_neighbourhood.css" crc="4151897656" ref="neighbourhood"/>
+    <file name="index.css" crc="3822045902" ref="index"/>
+    <file name="nomq_index.css" crc="3807152233" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="pt-summer-pavilion.css" crc="4007219592" ref="pt-summer-pavilion"/>
+    <file name="nomq_pt-summer-pavilion.css" crc="15453889" ref="pt-summer-pavilion"/>
+    <file name="iefonts_pt-summer-pavilion.css" crc="3824530138" ref="pt-summer-pavilion"/>
+    <file name="oporto-residence.css" crc="362625083" ref="oporto-residence"/>
+    <file name="nomq_oporto-residence.css" crc="65115051" ref="oporto-residence"/>
+    <file name="about.css" crc="3917740701" ref="about"/>
+    <file name="nomq_about.css" crc="271585256" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="pt-the-way-of-the-buyi.css" crc="4000429353" ref="pt-the-way-of-the-buyi"/>
+    <file name="nomq_pt-the-way-of-the-buyi.css" crc="4218034835" ref="pt-the-way-of-the-buyi"/>
+    <file name="iefonts_pt-the-way-of-the-buyi.css" crc="3824530138" ref="pt-the-way-of-the-buyi"/>
+    <file name="master-thesis.css" crc="162673970" ref="master-thesis"/>
+    <file name="nomq_master-thesis.css" crc="143596438" ref="master-thesis"/>
+    <file name="urban-art.css" crc="4194048174" ref="urban-art"/>
+    <file name="nomq_urban-art.css" crc="3778413282" ref="urban-art"/>
+    <file name="pt-castelo-de-cartas.css" crc="128511712" ref="pt-castelo-de-cartas"/>
+    <file name="nomq_pt-castelo-de-cartas.css" crc="3991873745" ref="pt-castelo-de-cartas"/>
+    <file name="iefonts_pt-castelo-de-cartas.css" crc="3824530138" ref="pt-castelo-de-cartas"/>
+    <file name="contacts.css" crc="3998628" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="446060479" ref="contacts"/>
+    <file name="iefonts_contacts.css" crc="3824530138" ref="contacts"/>
+    <file name="summer-pavilion.css" crc="3867256372" ref="summer-pavilion"/>
+    <file name="nomq_summer-pavilion.css" crc="3771587851" ref="summer-pavilion"/>
+    <file name="pt-tese-de-mestrado.css" crc="4143315860" ref="pt-tese-de-mestrado"/>
+    <file name="nomq_pt-tese-de-mestrado.css" crc="59405332" ref="pt-tese-de-mestrado"/>
+    <file name="iefonts_pt-tese-de-mestrado.css" crc="3824530138" ref="pt-tese-de-mestrado"/>
+    <file name="home-en.css" crc="4202202788" ref="home-en"/>
+    <file name="nomq_home-en.css" crc="128327287" ref="home-en"/>
+    <file name="iefonts_home-en.css" crc="3824530138" ref="home-en"/>
+    <file name="the-way-of-the-buyi.css" crc="306781880" ref="the-way-of-the-buyi"/>
+    <file name="nomq_the-way-of-the-buyi.css" crc="471707401" ref="the-way-of-the-buyi"/>
+    <file name="pt-neighbourhood.css" crc="4136305071" ref="pt-neighbourhood"/>
+    <file name="nomq_pt-neighbourhood.css" crc="4229082040" ref="pt-neighbourhood"/>
+    <file name="iefonts_pt-neighbourhood.css" crc="3824530138" ref="pt-neighbourhood"/>
+  </folder>
+  <folder name="assets">
+    <file name="dst_recommendation.png" crc="4201919930" seo="true" mt="1519650165000"/>
+    <file name="jvantspijker.jpg" crc="414455295" seo="true" mt="1520793960000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:home-en"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="require.js" crc="4157109226" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+  </folder>
+  <folder name="images">
+    <file name="m_ home235x235.jpg" crc="500700288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home235x235_2x.jpg" crc="418141828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home_pb-buttonu43269-fr.jpg" crc="3912828224" ref="index:home-en"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:contacts:home-en:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:about-en:pt-oporto-residence"/>
+    <file name="m_alçado.jpg" crc="328996387" seo="true" ref="index:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="m_alçado_2x.jpg" crc="4268119090" seo="true" ref="index:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="m_mini_imagem pri237x236.jpg" crc="489143291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pri237x236_2x.jpg" crc="4127326893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pb-buttonu5691-fr.jpg" crc="5308940" ref="index:home-en"/>
+    <file name="m_mini_imagem pb-buttonu5691-fr_2x.jpg" crc="4007766565" ref="index:home-en"/>
+    <file name="m_alçadopb-buttonu5740-fr.jpg" crc="112079720" ref="index:home-en"/>
+    <file name="m_alçadopb-buttonu5740-fr_2x.jpg" crc="126887622" ref="index:home-en"/>
+    <file name="castelo de cartas_quadrado235x235.png" crc="4058016166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="castelo de cartas_preto e branco-buttonu5299-fr.png" crc="4047849229" ref="index:home-en"/>
+    <file name="m_have no idea what i am doing2 - cópia237x237.png" crc="4253922218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_have no idea what i am doing2 - cópia237x237_2x.png" crc="4284712699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr.png" crc="169499318" ref="index:home-en"/>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr_2x.png" crc="417162530" ref="index:home-en"/>
+    <file name="mapa final-01 cópia235x237.jpg" crc="3939848765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final-01 cópia235x237_2x.jpg" crc="84183786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final_preto e branco-buttonu43355-fr.jpg" crc="4209541451" ref="index:home-en"/>
+    <file name="m_quadradocapa livro236x236.jpg" crc="3965212079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_quadradocapa livro236x236_2x.jpg" crc="393915648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capa livro_pb-buttonu43423-fr.jpg" crc="59067119" ref="index:home-en"/>
+    <file name="m_ home215x215.jpg" crc="3826164213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home215x215_2x.jpg" crc="4278147247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home_pb-buttonu43269-fr2.jpg" crc="4004256990" ref="index:home-en"/>
+    <file name="m_alçado215x215.jpg" crc="429353450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_alçado215x215_2x.jpg" crc="4241067817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pri216x216.jpg" crc="4016244189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pri216x216_2x.jpg" crc="4252466345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pb-buttonu5691-fr2.jpg" crc="4153633702" ref="index:home-en"/>
+    <file name="m_mini_imagem pb-buttonu5691-fr_2x2.jpg" crc="3965183764" ref="index:home-en"/>
+    <file name="m_alçadopb-buttonu5740-fr2.jpg" crc="309761887" ref="index"/>
+    <file name="m_alçadopb-buttonu5740-fr_2x2.jpg" crc="137210969" ref="index"/>
+    <file name="castelo de cartas_quadrado216x216.png" crc="3830051513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="castelo de cartas_preto e branco-buttonu5299-fr2.png" crc="3810225817" ref="index"/>
+    <file name="m_have no idea what i am doing2 - cópia217x217.png" crc="236255682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_have no idea what i am doing2 - cópia217x217_2x.png" crc="189669047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr2.png" crc="13740820" ref="index"/>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr_2x2.png" crc="4214292302" ref="index"/>
+    <file name="mapa final-01 cópia217x217.jpg" crc="502106399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final-01 cópia217x217_2x.jpg" crc="124373622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final_preto e branco-buttonu43355-fr2.jpg" crc="4238821714" ref="index:home-en"/>
+    <file name="m_quadradocapa livro217x217.jpg" crc="264129302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_quadradocapa livro217x217_2x.jpg" crc="4142018187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capa livro_pb-buttonu43423-fr2.jpg" crc="263340681" ref="index"/>
+    <file name="m_ home191x191.jpg" crc="4042476649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home191x191_2x.jpg" crc="445545884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home_pb-buttonu43269-fr3.jpg" crc="3985366544" ref="index:home-en"/>
+    <file name="m_alçado191x191.jpg" crc="185857846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_alçado191x191_2x.jpg" crc="3985384827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pri191x191.jpg" crc="51517442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pri191x191_2x.jpg" crc="4048699387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pb-buttonu5691-fr3.jpg" crc="3894811625" ref="index:home-en"/>
+    <file name="m_mini_imagem pb-buttonu5691-fr_2x3.jpg" crc="366751829" ref="index:home-en"/>
+    <file name="m_alçadopb-buttonu5740-fr3.jpg" crc="4234607220" ref="index:home-en"/>
+    <file name="m_alçadopb-buttonu5740-fr_2x3.jpg" crc="195167" ref="index:home-en"/>
+    <file name="castelo de cartas_quadrado191x191.png" crc="4046532680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="castelo de cartas_preto e branco-buttonu5299-fr3.png" crc="3810069128" ref="index:home-en"/>
+    <file name="m_have no idea what i am doing2 - cópia191x193.png" crc="296780075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_have no idea what i am doing2 - cópia191x193_2x.png" crc="450883604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr3.png" crc="4137447163" ref="index:home-en"/>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr_2x3.png" crc="3870863281" ref="index:home-en"/>
+    <file name="mapa final-01 cópia193x193.jpg" crc="4151882348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final-01 cópia193x193_2x.jpg" crc="446480352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final_preto e branco-buttonu43355-fr3.jpg" crc="493172510" ref="index:home-en"/>
+    <file name="m_quadradocapa livro193x192.jpg" crc="505196646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_quadradocapa livro193x192_2x.jpg" crc="349143207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capa livro_pb-buttonu43423-fr3.jpg" crc="4040961474" ref="index:home-en"/>
+    <file name="m_ home194x194.jpg" crc="207356298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home194x194_2x.jpg" crc="242257175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home_pb-buttonu43269-fr4.jpg" crc="383732200" ref="index:home-en"/>
+    <file name="m_alçado194x194.jpg" crc="4043742843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_alçado194x194_2x.jpg" crc="412920911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_alçadopb-buttonu5740-fr4.jpg" crc="496191782" ref="index:home-en"/>
+    <file name="m_alçadopb-buttonu5740-fr_2x4.jpg" crc="3888585925" ref="index:home-en"/>
+    <file name="m_have no idea what i am doing2 - cópia195x195.png" crc="4075655528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_have no idea what i am doing2 - cópia195x195_2x.png" crc="3761599171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr4.png" crc="131768742" ref="index:home-en"/>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr_2x4.png" crc="60109792" ref="index:home-en"/>
+    <file name="m_mini_imagem pri194x194.jpg" crc="3901877326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pri194x194_2x.jpg" crc="3948555624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pb-buttonu5691-fr4.jpg" crc="4174455839" ref="index:home-en"/>
+    <file name="m_mini_imagem pb-buttonu5691-fr_2x4.jpg" crc="4074363892" ref="index:home-en"/>
+    <file name="mapa final-01 cópia195x195.jpg" crc="266171511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final-01 cópia195x195_2x.jpg" crc="472414678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final_preto e branco-buttonu43355-fr4.jpg" crc="377494204" ref="index:home-en"/>
+    <file name="castelo de cartas_quadrado194x194.png" crc="4134511632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="castelo de cartas_preto e branco-buttonu5299-fr4.png" crc="438677168" ref="index:home-en"/>
+    <file name="m_quadradocapa livro195x195.jpg" crc="4142722965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_quadradocapa livro195x195_2x.jpg" crc="3997653418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capa livro_pb-buttonu43423-fr4.jpg" crc="4123444385" ref="index:home-en"/>
+    <file name="m_alçado183x183.jpg" crc="58846124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_alçado183x183_2x.jpg" crc="257762114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_alçadopb-buttonu5740-fr5.jpg" crc="469212864" ref="index:home-en"/>
+    <file name="m_alçadopb-buttonu5740-fr_2x5.jpg" crc="276883859" ref="index:home-en"/>
+    <file name="m_ home183x183.jpg" crc="491462416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home183x183_2x.jpg" crc="4224443534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_ home_pb-buttonu43269-fr5.jpg" crc="533971725" ref="index:home-en"/>
+    <file name="m_mini_imagem pri184x183.jpg" crc="3953460189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pri184x183_2x.jpg" crc="112658966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_mini_imagem pb-buttonu5691-fr5.jpg" crc="424779952" ref="index:home-en"/>
+    <file name="m_mini_imagem pb-buttonu5691-fr_2x5.jpg" crc="316799056" ref="index:home-en"/>
+    <file name="m_have no idea what i am doing2 - cópia185x185.png" crc="277031030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_have no idea what i am doing2 - cópia185x185_2x.png" crc="3870032741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr5.png" crc="261610281" ref="index:home-en"/>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu5204-fr_2x5.png" crc="3932957113" ref="index:home-en"/>
+    <file name="castelo de cartas_quadrado184x183.png" crc="4181020389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="castelo de cartas_preto e branco-buttonu5299-fr5.png" crc="22143063" ref="index:home-en"/>
+    <file name="mapa final-01 cópia185x185.jpg" crc="523532184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final-01 cópia185x185_2x.jpg" crc="4219475127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa final_preto e branco-buttonu43355-fr5.jpg" crc="4088982512" ref="index:home-en"/>
+    <file name="m_quadradocapa livro185x185.jpg" crc="291002619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_quadradocapa livro185x185_2x.jpg" crc="175309848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capa livro_pb-buttonu43423-fr5.jpg" crc="386437546" ref="index:home-en"/>
+    <file name="thumbnail_20180305_175607-1- copiar244x306.png" crc="517015767" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas51x175.png" crc="15909604" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas51x175_2x.png" crc="534836797" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="thumbnail_20180305_175607-1- copiar227x284.png" crc="4104405242" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas.png" crc="57280865" seo="true" ref="about:about-en">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about-en" alt=""/>
+    </file>
+    <file name="bolas programas_2x.png" crc="534836797" seo="true" ref="about:about-en">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about-en" alt=""/>
+    </file>
+    <file name="thumbnail_20180305_175607-1- copiar202x253.png" crc="4218026017" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas46x157.png" crc="175683973" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas46x157_2x.png" crc="534836797" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="thumbnail_20180305_175607-1- copiar167x210.png" crc="112034518" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas46x160.png" crc="354193933" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas46x160_2x.png" crc="534836797" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="thumbnail_20180305_175607-1- copiar196x246.png" crc="4055414750" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas47x161.png" crc="354193933" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bolas programas47x161_2x.png" crc="534836797" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="seta.png" crc="3989355957" seo="true" ref="urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:pt-oporto-residence">
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="castelo-de-cartas" alt=""/>
+      <caption webpage="castelo-de-cartas" alt=""/>
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="master-thesis" alt=""/>
+      <caption webpage="master-thesis" alt=""/>
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="seta_2x.png" crc="476470332" seo="true" ref="urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:pt-oporto-residence">
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="castelo-de-cartas" alt=""/>
+      <caption webpage="castelo-de-cartas" alt=""/>
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="master-thesis" alt=""/>
+      <caption webpage="master-thesis" alt=""/>
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u7272.jpg" crc="32002394" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u7272_2x.jpg" crc="502914344" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px-crop-u22995.png" crc="253447669" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px-crop-u22995_2x.png" crc="3968469595" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_.jpg" crc="4147686104" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia__2x.jpg" crc="363739880" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior303x572.jpg" crc="29429257" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior303x572_2x.jpg" crc="85931199" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px510x394.jpg" crc="4103980824" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px510x394_2x.jpg" crc="3819269803" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo845x606.jpg" crc="99436665" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo845x606_2x.jpg" crc="3780963354" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="seta27x27.png" crc="501230725" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="seta27x27_2x.png" crc="476470332" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u72722.jpg" crc="49478034" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u7272_2x2.jpg" crc="534990637" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px546x406.png" crc="3784096571" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px546x406_2x.png" crc="3919099416" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_621x178.jpg" crc="279251854" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_621x178_2x.jpg" crc="359090955" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px.jpg" crc="4129537738" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px_2x.jpg" crc="4170859425" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior.jpg" crc="135889217" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior_2x.jpg" crc="205247173" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo699x501.jpg" crc="430676751" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo699x501_2x.jpg" crc="3822072483" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u72723.jpg" crc="3798401905" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u7272_2x3.jpg" crc="4073899267" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px443x330.png" crc="463425516" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px443x330_2x.png" crc="14505146" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_508x146.jpg" crc="3858578936" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_508x146_2x.jpg" crc="4230021223" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px439x340.jpg" crc="4135143289" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px439x340_2x.jpg" crc="3915773147" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior251x474.jpg" crc="5619829" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior251x474_2x.jpg" crc="4174227587" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo596x428.jpg" crc="457443627" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo596x428_2x.jpg" crc="315262572" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u72724.jpg" crc="3758292866" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u7272_2x4.jpg" crc="219932481" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="seta22x22.png" crc="4132259717" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="seta22x22_2x.png" crc="488650185" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px421x313.png" crc="319301962" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px421x313_2x.png" crc="4252155350" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_487x140.jpg" crc="85147453" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_487x140_2x.jpg" crc="212838311" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px378x292.jpg" crc="38300115" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px378x292_2x.jpg" crc="4053796690" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior206x388.jpg" crc="4193000340" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior206x388_2x.jpg" crc="488659247" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo487x349.jpg" crc="4230856615" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo487x349_2x.jpg" crc="24211745" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u72725.jpg" crc="308814068" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u7272_2x5.jpg" crc="495716201" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="seta20x20.png" crc="364291459" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="seta20x20_2x.png" crc="504025079" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px337x251.png" crc="326857454" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="corte_1500px337x251_2x.png" crc="388190730" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_341x98.jpg" crc="213543374" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_4 cópia_341x98_2x.jpg" crc="4182313555" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px396x307.jpg" crc="244985143" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px396x307_2x.jpg" crc="275961024" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior218x412.jpg" crc="424317723" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior218x412_2x.jpg" crc="279283350" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo335x240.jpg" crc="39719472" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_axo335x240_2x.jpg" crc="3938074701" seo="true" ref="urban-art">
+      <caption webpage="urban-art" alt=""/>
+    </file>
+    <file name="m_imagem pri.jpg" crc="3940839535" seo="true" ref="summer-pavilion:pt-summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri_2x.jpg" crc="387248199" seo="true" ref="summer-pavilion:pt-summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a354x354.png" crc="3945369759" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a354x354_2x.png" crc="3783094909" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u6751.png" crc="517943435" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado777x166.png" crc="4246483312" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado777x166_2x.png" crc="452987390" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="planta 1-200_1500px.jpg" crc="3941997605" seo="true" ref="summer-pavilion:pt-summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri703x453.jpg" crc="3932171482" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri703x453_2x.jpg" crc="399342970" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a290x290.png" crc="4057898468" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a290x290_2x.png" crc="252889649" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u67512.png" crc="390888550" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado627x134.png" crc="449523416" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado627x134_2x.png" crc="4027769814" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="planta 1-200_1500px762x770.jpg" crc="4275701594" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri-crop-u21119.jpg" crc="454311007" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri-crop-u21119_2x.jpg" crc="445928402" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a239x239.png" crc="3863040088" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a239x239_2x.png" crc="26725774" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u67513.png" crc="453378161" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado-crop-u7595.png" crc="78546161" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado-crop-u7595_2x.png" crc="4138285563" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="planta 1-200_1500px683x689.jpg" crc="4194818711" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri463x299.jpg" crc="4144598037" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri463x299_2x.jpg" crc="522655474" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a271x271.png" crc="353686749" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a271x271_2x.png" crc="238913647" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u67514.png" crc="4113339031" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado478x102.png" crc="236797391" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado478x102_2x.png" crc="57108801" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="planta 1-200_1500px479x484.jpg" crc="4023473895" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri335x216.jpg" crc="4201464093" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri335x216_2x.jpg" crc="87712281" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a336x335.png" crc="239597765" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a336x335_2x.png" crc="223933989" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u67515.png" crc="4173753911" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado361x77.png" crc="3779598854" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado361x77_2x.png" crc="4075613366" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="planta 1-200_1500px343x347.jpg" crc="4061616224" seo="true" ref="summer-pavilion">
+      <caption webpage="summer-pavilion" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u7722.png" crc="334451768" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="books1_1200px378x346.jpg" crc="4038126865" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="gif-half.gif" crc="513113133" seo="true" ref="the-way-of-the-buyi:pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="gif-half_2x.gif" crc="513113133" seo="true" ref="the-way-of-the-buyi:pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal652x782.jpg" crc="4283887055" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal652x782_2x.jpg" crc="3865973103" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px843x469.png" crc="3838261606" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px843x469_2x.png" crc="361974971" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u77222.png" crc="79136122" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="books1_1200px323x296.jpg" crc="4262730740" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal553x663.jpg" crc="4230214079" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal553x663_2x.jpg" crc="323451690" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px703x391.png" crc="220663153" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px703x391_2x.png" crc="346672484" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u77223.png" crc="4086140202" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="books1_1200px336x306.jpg" crc="4030486282" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal-crop-u7782.jpg" crc="372328090" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal-crop-u7782_2x.jpg" crc="4119904014" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px594x330.png" crc="138431197" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px594x330_2x.png" crc="4227654741" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u77224.png" crc="4002908100" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="books1_1200px305x282.jpg" crc="4258478210" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal449x539.jpg" crc="4248492776" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal449x539_2x.jpg" crc="115791066" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px507x282.png" crc="4126760133" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px507x282_2x.png" crc="3871875282" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u77225.png" crc="3760850642" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="books1_1200px335x310.jpg" crc="4030486282" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal350x420.jpg" crc="3782028304" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal350x420_2x.jpg" crc="161643072" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px336x187.png" crc="3996228305" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px336x187_2x.png" crc="4154550551" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u8095.jpg" crc="463500878" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u8125.jpg" crc="4179734613" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u8125_2x.jpg" crc="351234268" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="axonom496x588.png" crc="3812815547" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="captura de ecrã 2018-02-19, às 132443351x376.png" crc="445237770" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u9467.jpg" crc="426243160" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u8152.jpg" crc="114596966" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u80952.jpg" crc="3999970276" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u81252.jpg" crc="525383132" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u8125_2x2.jpg" crc="3984083638" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="axonom401x475.png" crc="3758770487" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="captura de ecrã 2018-02-19, às 132443336x360.png" crc="4117382082" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u94672.jpg" crc="3775828478" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u81522.jpg" crc="26342592" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u80953.jpg" crc="3803512042" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u81253.jpg" crc="4173843666" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u8125_2x3.jpg" crc="212897580" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="axonom475x563.png" crc="4202316246" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="captura de ecrã 2018-02-19, às 132443440x472.png" crc="285958446" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u94673.jpg" crc="173766558" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u81523.jpg" crc="4050946510" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u80954.jpg" crc="4089050797" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u81254.jpg" crc="4002757103" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u8125_2x4.jpg" crc="490307387" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="axonom488x578.png" crc="4127022427" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="captura de ecrã 2018-02-19, às 132443331x354.png" crc="3842692929" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u94674.jpg" crc="328873312" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u81524.jpg" crc="4145387472" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u80955.jpg" crc="4210675575" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u81255.jpg" crc="449647828" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u8125_2x5.jpg" crc="284252722" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="axonom355x422.png" crc="4282713893" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="captura de ecrã 2018-02-19, às 132443336x359.png" crc="3792211274" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u94675.jpg" crc="3955478718" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u81525.jpg" crc="231247221" seo="true" ref="castelo-de-cartas">
+      <caption webpage="castelo-de-cartas" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px.jpg" crc="365152944" seo="true" ref="neighbourhood:pt-neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px_2x.jpg" crc="410565396" seo="true" ref="neighbourhood:pt-neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px.jpg" crc="489554131" seo="true" ref="neighbourhood:pt-neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px_2x.jpg" crc="4245510774" seo="true" ref="neighbourhood:pt-neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="diagram_1500602x350.jpg" crc="504473517" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution145x145.jpg" crc="3997868789" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution145x145_2x.jpg" crc="519904664" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field145x145.jpg" crc="493742258" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field145x145_2x.jpg" crc="447691205" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard145x145.jpg" crc="3797737422" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard145x145_2x.jpg" crc="3775483169" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education145x145.jpg" crc="4266089227" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education145x145_2x.jpg" crc="224355205" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market145x145.jpg" crc="106941359" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market145x145_2x.jpg" crc="3924321856" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory145x145.jpg" crc="3855212008" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory145x145_2x.jpg" crc="4255054221" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train145x145.jpg" crc="3985218507" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train145x145_2x.jpg" crc="229580252" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px.jpg" crc="29353557" seo="true" ref="neighbourhood:pt-neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px_2x.jpg" crc="462988443" seo="true" ref="neighbourhood:pt-neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px703x485.jpg" crc="113436210" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px703x485_2x.jpg" crc="3844767551" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px584x339.jpg" crc="3817954545" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px584x339_2x.jpg" crc="116991842" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram_1500573x333.jpg" crc="4049230004" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution126x126.jpg" crc="86815316" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution126x126_2x.jpg" crc="4114580128" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field126x126.jpg" crc="88180634" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field126x126_2x.jpg" crc="4111733367" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard126x126.jpg" crc="4049379847" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard126x126_2x.jpg" crc="3759446942" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education126x126.jpg" crc="3963758625" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education126x126_2x.jpg" crc="3835085042" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market126x126.jpg" crc="4094704354" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market126x126_2x.jpg" crc="55112216" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory126x126.jpg" crc="240193577" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory126x126_2x.jpg" crc="416950357" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train126x126.jpg" crc="525304349" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train126x126_2x.jpg" crc="3888267322" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px716x421.jpg" crc="314446770" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px716x421_2x.jpg" crc="486185689" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px-crop-u9487.jpg" crc="160927367" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px-crop-u9487_2x.jpg" crc="4205765892" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px-crop-u20683.jpg" crc="447612185" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px-crop-u20683_2x.jpg" crc="284994807" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram_1500489x284.jpg" crc="4073796758" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution108x108.jpg" crc="3914605995" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution108x108_2x.jpg" crc="4276981305" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field108x108.jpg" crc="442820927" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field108x108_2x.jpg" crc="4238161372" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard107x108.jpg" crc="4157965384" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard107x108_2x.jpg" crc="239138344" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education108x107.jpg" crc="535398367" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education108x107_2x.jpg" crc="4270758458" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market108x108.jpg" crc="4045073107" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market108x108_2x.jpg" crc="8138067" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory108x107.jpg" crc="4123708938" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory108x107_2x.jpg" crc="124674054" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train107x107.jpg" crc="4209810384" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train107x107_2x.jpg" crc="4203504495" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px611x359.jpg" crc="468079691" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px611x359_2x.jpg" crc="3947399485" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px-crop-u94872.jpg" crc="525357603" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px-crop-u9487_2x2.jpg" crc="3862014720" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px409x238.jpg" crc="89108634" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px409x238_2x.jpg" crc="218080781" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram_1500462x268.jpg" crc="4214183630" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution97x97.jpg" crc="428175850" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution97x97_2x.jpg" crc="236697616" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field98x98.jpg" crc="3917092428" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field98x98_2x.jpg" crc="342846975" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard97x97.jpg" crc="154748654" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard97x97_2x.jpg" crc="4077509792" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education98x97.jpg" crc="280781308" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education98x97_2x.jpg" crc="3884959314" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market97x97.jpg" crc="274229152" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market97x97_2x.jpg" crc="117644341" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory97x97.jpg" crc="3873410397" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory97x97_2x.jpg" crc="483714479" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train97x97.jpg" crc="3984173676" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train97x97_2x.jpg" crc="498291588" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px477x281.jpg" crc="438663279" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px477x281_2x.jpg" crc="63746345" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px336x232.jpg" crc="418545091" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px336x232_2x.jpg" crc="4250693887" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px346x201.jpg" crc="3800229715" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px346x201_2x.jpg" crc="4208666079" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="diagram_1500355x206.jpg" crc="3938503719" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution71x71.jpg" crc="3808430027" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="prodution71x71_2x.jpg" crc="4260725227" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field71x71.jpg" crc="66156169" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="community field71x71_2x.jpg" crc="3832021123" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard70x71.jpg" crc="140926869" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="backyard70x71_2x.jpg" crc="207798891" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education71x70.jpg" crc="3919588466" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="green education71x70_2x.jpg" crc="113806562" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market71x71.jpg" crc="419932085" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="metro market71x71_2x.jpg" crc="3786538892" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory71x70.jpg" crc="4145850188" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="food factory71x70_2x.jpg" crc="88035500" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train70x70.jpg" crc="232314718" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train70x70_2x.jpg" crc="3914437470" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px336x198.jpg" crc="4276175145" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px336x198_2x.jpg" crc="4127644692" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u21232.jpg" crc="485902121" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado.jpg" crc="3764662440" seo="true" ref="oporto-residence:pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado_2x.jpg" crc="3926514578" seo="true" ref="oporto-residence:pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6.jpg" crc="20647065" seo="true" ref="oporto-residence:pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6_2x.jpg" crc="514174840" seo="true" ref="oporto-residence:pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta.jpg" crc="3765536230" seo="true" ref="oporto-residence:pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta_2x.jpg" crc="3816534802" seo="true" ref="oporto-residence:pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u212322.jpg" crc="349367277" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado632x195.jpg" crc="113829212" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado632x195_2x.jpg" crc="4286724167" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6418x261.jpg" crc="4237133330" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6418x261_2x.jpg" crc="482369652" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta702x327.jpg" crc="88412890" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta702x327_2x.jpg" crc="122258756" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u212323.jpg" crc="510761826" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado530x164.jpg" crc="58756087" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado530x164_2x.jpg" crc="433168244" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6496x310.jpg" crc="3825273717" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6496x310_2x.jpg" crc="439094309" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta598x278.jpg" crc="4008751856" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta598x278_2x.jpg" crc="4043633859" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u212324.jpg" crc="529284901" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado468x144.jpg" crc="117758878" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado468x144_2x.jpg" crc="3948582507" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6498x311.jpg" crc="3995344364" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6498x311_2x.jpg" crc="46145598" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta467x218.jpg" crc="3950403757" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta467x218_2x.jpg" crc="57443279" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u212325.jpg" crc="122483022" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado335x104.jpg" crc="365092645" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="corte alçado335x104_2x.jpg" crc="4198319182" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6356x222.jpg" crc="3804846528" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21 - imagem6356x222_2x.jpg" crc="4275802447" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta338x158.jpg" crc="4045708403" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="planta338x158_2x.jpg" crc="132825790" seo="true" ref="oporto-residence">
+      <caption webpage="oporto-residence" alt=""/>
+    </file>
+    <file name="capa livro-crop-u41130.jpg" crc="3955154366" seo="true" ref="master-thesis">
+      <caption webpage="master-thesis" alt=""/>
+    </file>
+    <file name="capa livro-crop-u411302.jpg" crc="86151327" seo="true" ref="master-thesis">
+      <caption webpage="master-thesis" alt=""/>
+    </file>
+    <file name="capa livro-crop-u411303.jpg" crc="3995560076" seo="true" ref="master-thesis">
+      <caption webpage="master-thesis" alt=""/>
+    </file>
+    <file name="capa livro-crop-u411304.jpg" crc="459014029" seo="true" ref="master-thesis">
+      <caption webpage="master-thesis" alt=""/>
+    </file>
+    <file name="capa livro-crop-u411305.jpg" crc="3936721424" seo="true" ref="master-thesis">
+      <caption webpage="master-thesis" alt=""/>
+    </file>
+    <file name="2000.jpg" crc="73155511" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000_2x.jpg" crc="479913239" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="linkedin_logo_177x29.jpg" crc="3942475512" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="linkedin_logo_177x29_2x.jpg" crc="4000667897" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000710x400.jpg" crc="267431533" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000710x400_2x.jpg" crc="77697034" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="linkedin_logo_165x24.jpg" crc="4243456310" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="linkedin_logo_165x24_2x.jpg" crc="36398928" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000581x327.jpg" crc="4079361054" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000581x327_2x.jpg" crc="504370861" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="linkedin_logo_178x29.jpg" crc="114501648" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="linkedin_logo_178x29_2x.jpg" crc="85616902" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000464x262.jpg" crc="271109510" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000464x262_2x.jpg" crc="513593233" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000335x189.jpg" crc="3936925864" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="2000335x189_2x.jpg" crc="138633061" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="linkedin_logo_168x25.jpg" crc="51858452" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="linkedin_logo_168x25_2x.jpg" crc="3936451652" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="m_alçadopb-buttonu47405-fr.jpg" crc="463662156" ref="home-en"/>
+    <file name="m_alçadopb-buttonu47405-fr_2x.jpg" crc="4196385489" ref="home-en"/>
+    <file name="castelo de cartas_preto e branco-buttonu47411-fr.png" crc="3988642340" ref="home-en"/>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu47415-fr.png" crc="161891319" ref="home-en"/>
+    <file name="have no idea what i am doing_1000px_preto e branco-buttonu47415-fr_2x.png" crc="433543132" ref="home-en"/>
+    <file name="capa livro_pb-buttonu47407-fr.jpg" crc="4279277767" ref="home-en"/>
+    <file name="alçado_2500-crop-u48013.jpg" crc="32002394" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u48013_2x.jpg" crc="502914344" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="corte_1500px-crop-u48015.png" crc="268290351" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="corte_1500px-crop-u48015_2x.png" crc="300364870" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_4 cópia_737x212.jpg" crc="4142666530" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_4 cópia_737x212_2x.jpg" crc="308288213" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_axo.jpg" crc="417337729" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_axo_2x.jpg" crc="3780963354" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u480132.jpg" crc="49478034" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u48013_2x2.jpg" crc="534990637" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px567x439.jpg" crc="3987691661" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px567x439_2x.jpg" crc="534978113" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior319x602.jpg" crc="3881801318" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior319x602_2x.jpg" crc="4112223204" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u480133.jpg" crc="3798401905" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u48013_2x3.jpg" crc="4073899267" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u480134.jpg" crc="32573631" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u48013_2x4.jpg" crc="426889296" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="corte_1500px462x344.png" crc="20701590" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="corte_1500px462x344_2x.png" crc="3972496614" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_4 cópia_474x136.jpg" crc="4023664621" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_4 cópia_474x136_2x.jpg" crc="101589257" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px390x302.jpg" crc="3797656708" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px390x302_2x.jpg" crc="4134452654" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_axo460x330.jpg" crc="292739955" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_axo460x330_2x.jpg" crc="3893602499" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u480135.jpg" crc="324309664" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="alçado_2500-crop-u48013_2x5.jpg" crc="111075255" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="corte_1500px334x249.png" crc="444070424" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="corte_1500px334x249_2x.png" crc="21912287" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_4 cópia_334x96.jpg" crc="3908448127" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_4 cópia_334x96_2x.jpg" crc="277764128" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px395x306.jpg" crc="454170286" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="sala exposições_ site 1200px395x306_2x.jpg" crc="4022670036" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior193x364.jpg" crc="116978656" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_corte pormenor maior193x364_2x.jpg" crc="49462572" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_axo331x237.jpg" crc="4124833389" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="m_axo331x237_2x.jpg" crc="3834281053" seo="true" ref="pt-centro-de-arte-urbana">
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+    </file>
+    <file name="expo-2a352x352.png" crc="4239353846" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a352x352_2x.png" crc="3819240270" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u49028.png" crc="3912343820" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a292x292.png" crc="3823398817" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a292x292_2x.png" crc="191214936" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u490282.png" crc="3951235023" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri600x387.jpg" crc="3848420587" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri600x387_2x.jpg" crc="325514304" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u490283.png" crc="453378161" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado541x115.png" crc="3832877662" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado541x115_2x.png" crc="532135382" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri461x298.jpg" crc="132975304" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri461x298_2x.jpg" crc="4139047104" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u490284.png" crc="4113339031" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado482x103.png" crc="4042664738" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado482x103_2x.png" crc="425533357" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="planta 1-200_1500px485x490.jpg" crc="347841459" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri337x218.jpg" crc="354147756" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_imagem pri337x218_2x.jpg" crc="440852001" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a337x336.png" crc="4258129889" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="expo-2a337x336_2x.png" crc="3786486084" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="ima noite_1200px-crop-u490285.png" crc="4173753911" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado353x75.png" crc="3856335166" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="corte cortado353x75_2x.png" crc="236631773" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="planta 1-200_1500px348x352.jpg" crc="4058922079" seo="true" ref="pt-summer-pavilion">
+      <caption webpage="pt-summer-pavilion" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u49179.png" crc="464683080" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="books1_1200px470x430.jpg" crc="521123083" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u491792.png" crc="43374295" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u491793.png" crc="4086140202" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal426x511.jpg" crc="275955395" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal426x511_2x.jpg" crc="4288155802" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u491794.png" crc="215917556" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal483x579.jpg" crc="3924166205" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal483x579_2x.jpg" crc="3912079569" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px462x257.png" crc="142989374" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px462x257_2x.png" crc="3994690364" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="m_1200 março-crop-u491795.png" crc="199185673" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="books1_1200px336x310.jpg" crc="4030486282" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal360x432.jpg" crc="3821845473" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta normal360x432_2x.jpg" crc="4217155961" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px335x187.png" crc="4067840160" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="biblioteca final medium quality_2000px335x187_2x.png" crc="3783710679" seo="true" ref="pt-the-way-of-the-buyi">
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u49530.jpg" crc="463500878" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u49527.jpg" crc="104337638" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u49527_2x.jpg" crc="474017206" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="axonom453x537.png" crc="3804833697" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="captura de ecrã 2018-02-19, às 132443353x378.png" crc="165778374" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u49516.jpg" crc="3913178598" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u49523.jpg" crc="114596966" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u495302.jpg" crc="3999970276" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u495272.jpg" crc="454259217" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u49527_2x2.jpg" crc="191387190" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="axonom369x437.png" crc="3975695387" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="captura de ecrã 2018-02-19, às 132443294x314.png" crc="4164442716" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u495162.jpg" crc="4234128232" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u495232.jpg" crc="26342592" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u495303.jpg" crc="3803512042" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u495273.jpg" crc="4173843666" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u49527_2x3.jpg" crc="212897580" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u495163.jpg" crc="173766558" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u495233.jpg" crc="4050946510" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u495304.jpg" crc="140038386" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u495274.jpg" crc="4002757103" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u49527_2x4.jpg" crc="490307387" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u495164.jpg" crc="328873312" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u495234.jpg" crc="4145387472" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a12-crop-u495305.jpg" crc="4213652003" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u495275.jpg" crc="449647828" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="castelo de cartas-crop-u49527_2x5.jpg" crc="284252722" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="axonom398x473.png" crc="34327810" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="captura de ecrã 2018-02-19, às 132443393x420.png" crc="4109635747" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="032_web_a_6_3543-crop-u495165.jpg" crc="58567301" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="unadjustednonraw_thumb_5a0e-crop-u495235.jpg" crc="4219846508" seo="true" ref="pt-castelo-de-cartas">
+      <caption webpage="pt-castelo-de-cartas" alt=""/>
+    </file>
+    <file name="capa livro-crop-u52284.jpg" crc="3955154366" seo="true" ref="pt-tese-de-mestrado">
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+    </file>
+    <file name="capa livro-crop-u522842.jpg" crc="86151327" seo="true" ref="pt-tese-de-mestrado">
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+    </file>
+    <file name="capa livro-crop-u522843.jpg" crc="3995560076" seo="true" ref="pt-tese-de-mestrado">
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+    </file>
+    <file name="capa livro-crop-u522844.jpg" crc="4032376356" seo="true" ref="pt-tese-de-mestrado">
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+    </file>
+    <file name="capa livro-crop-u522845.jpg" crc="474248069" seo="true" ref="pt-tese-de-mestrado">
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+    </file>
+    <file name="prodution151x151.jpg" crc="3941665650" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="prodution151x151_2x.jpg" crc="81545833" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="community field151x151.jpg" crc="3916492325" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="community field151x151_2x.jpg" crc="3887622645" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="backyard151x151.jpg" crc="360024328" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="backyard151x151_2x.jpg" crc="426486486" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="green education151x151.jpg" crc="441085713" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="green education151x151_2x.jpg" crc="4294601100" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="metro market151x151.jpg" crc="161871163" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="metro market151x151_2x.jpg" crc="4137921984" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="food factory151x151.jpg" crc="236103702" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="food factory151x151_2x.jpg" crc="3937396165" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train151x151.jpg" crc="470220419" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train151x151_2x.jpg" crc="501331198" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px600x414.jpg" crc="454427217" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px600x414_2x.jpg" crc="382373512" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px488x283.jpg" crc="421480883" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="diagram3_1500px488x283_2x.jpg" crc="4141187247" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px-crop-u54650.jpg" crc="3870846546" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px-crop-u54650_2x.jpg" crc="144296089" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px-crop-u546502.jpg" crc="3827119451" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="mapa final_site 1500px-crop-u54650_2x2.jpg" crc="457127077" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="diagram_1500353x205.jpg" crc="320812089" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="prodution73x73.jpg" crc="50203690" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="prodution73x73_2x.jpg" crc="4036105432" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="community field73x73.jpg" crc="3865115093" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="community field73x73_2x.jpg" crc="493742258" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="backyard73x73.jpg" crc="3758941600" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="backyard73x73_2x.jpg" crc="4056767879" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="green education73x73.jpg" crc="3870620276" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="green education73x73_2x.jpg" crc="4220468365" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="metro market73x73.jpg" crc="203294089" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="metro market73x73_2x.jpg" crc="375621927" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="food factory73x73.jpg" crc="58499266" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="food factory73x73_2x.jpg" crc="3947463840" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train73x73.jpg" crc="4070896774" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="slow food train73x73_2x.jpg" crc="3985218507" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px328x193.jpg" crc="4055546679" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="vista aerea_1800px328x193_2x.jpg" crc="40961272" seo="true" ref="pt-neighbourhood">
+      <caption webpage="pt-neighbourhood" alt=""/>
+    </file>
+    <file name="thumbnail_20180305_175607-1- copiar161x203.png" crc="3821810998" seo="true" ref="about-en">
+      <caption webpage="about-en" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u127011.jpg" crc="467778540" seo="true" ref="pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u1270112.jpg" crc="349367277" seo="true" ref="pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u1270113.jpg" crc="510761826" seo="true" ref="pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u1270114.jpg" crc="529284901" seo="true" ref="pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+    </file>
+    <file name="3 ano_archi 21_final-crop-u1270115.jpg" crc="122483022" seo="true" ref="pt-oporto-residence">
+      <caption webpage="pt-oporto-residence" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3952762611" seo="true" mt="1520949215765" redirect="true"/>
+  <file name="about.html" crc="4117568022" seo="true" mt="1520949174214" redirect="true"/>
+  <file name="urban-art.html" crc="445572490" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="summer-pavilion.html" crc="441031509" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="the-way-of-the-buyi.html" crc="27989395" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="castelo-de-cartas.html" crc="453823821" seo="true" mt="1520949460218" redirect="true"/>
+  <file name="neighbourhood.html" crc="213128753" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="oporto-residence.html" crc="90484304" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="master-thesis.html" crc="287279579" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="contacts.html" crc="4119727014" seo="true" mt="1520935737967" redirect="true"/>
+  <file name="home-en.html" crc="4226913263" seo="true" mt="1520949170364" redirect="true"/>
+  <file name="pt-centro-de-arte-urbana.html" crc="120928992" seo="true" mt="1520935737967" redirect="true"/>
+  <file name="pt-summer-pavilion.html" crc="3780616617" seo="true" mt="1520941979195" redirect="true"/>
+  <file name="pt-the-way-of-the-buyi.html" crc="380056862" seo="true" mt="1520935751352" redirect="true"/>
+  <file name="pt-castelo-de-cartas.html" crc="4102524511" seo="true" mt="1520949471563" redirect="true"/>
+  <file name="pt-tese-de-mestrado.html" crc="4130218244" seo="true" mt="1520935737967" redirect="true"/>
+  <file name="pt-neighbourhood.html" crc="3978410084" seo="true" mt="1520942187570" redirect="true"/>
+  <file name="about-en.html" crc="427845576" seo="true" mt="1520949174217" redirect="true"/>
+  <file name="pt-oporto-residence.html" crc="4035056133" seo="true" mt="1520944025462" redirect="true"/>
+</manifest>
