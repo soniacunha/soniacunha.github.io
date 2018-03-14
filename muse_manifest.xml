@@ -1,60 +1,60 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.soniacunha.pt" resolutions="1x,2x" timestamp="1520973881349">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.soniacunha.pt" resolutions="1x,2x" timestamp="1521036118389">
   <folder name="css">
     <file name="site_global.css" crc="3937500795"/>
-    <file name="master_a-master-en.css" crc="215625085" ref="castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:urban-art:summer-pavilion:the-way-of-the-buyi"/>
-    <file name="nomq_preview_master_a-master-en.css" crc="441950935" ref="castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:urban-art:summer-pavilion:the-way-of-the-buyi"/>
-    <file name="master_a-master.css" crc="434935468" ref="pt-centro-de-arte-urbana:about-en:pt-oporto-residence:index:pt-summer-pavilion:about:pt-the-way-of-the-buyi:pt-castelo-de-cartas:contacts:pt-tese-de-mestrado:home-en:pt-neighbourhood"/>
-    <file name="nomq_preview_master_a-master.css" crc="148122826" ref="pt-centro-de-arte-urbana:about-en:pt-oporto-residence:index:pt-summer-pavilion:about:pt-the-way-of-the-buyi:pt-castelo-de-cartas:contacts:pt-tese-de-mestrado:home-en:pt-neighbourhood"/>
-    <file name="pt-centro-de-arte-urbana.css" crc="4273698798" ref="pt-centro-de-arte-urbana"/>
-    <file name="nomq_pt-centro-de-arte-urbana.css" crc="433219425" ref="pt-centro-de-arte-urbana"/>
-    <file name="iefonts_pt-centro-de-arte-urbana.css" crc="3824530138" ref="pt-centro-de-arte-urbana"/>
-    <file name="castelo-de-cartas.css" crc="330757614" ref="castelo-de-cartas"/>
-    <file name="nomq_castelo-de-cartas.css" crc="425752450" ref="castelo-de-cartas"/>
-    <file name="about-en.css" crc="4063167159" ref="about-en"/>
-    <file name="nomq_about-en.css" crc="3950285948" ref="about-en"/>
-    <file name="iefonts_about-en.css" crc="3824530138" ref="about-en"/>
-    <file name="pt-oporto-residence.css" crc="525812277" ref="pt-oporto-residence"/>
-    <file name="nomq_pt-oporto-residence.css" crc="475883846" ref="pt-oporto-residence"/>
-    <file name="iefonts_pt-oporto-residence.css" crc="3824530138" ref="pt-oporto-residence"/>
-    <file name="neighbourhood.css" crc="371351029" ref="neighbourhood"/>
-    <file name="nomq_neighbourhood.css" crc="4151897656" ref="neighbourhood"/>
-    <file name="index.css" crc="3822045902" ref="index"/>
-    <file name="nomq_index.css" crc="3807152233" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="pt-summer-pavilion.css" crc="4007219592" ref="pt-summer-pavilion"/>
-    <file name="nomq_pt-summer-pavilion.css" crc="15453889" ref="pt-summer-pavilion"/>
-    <file name="iefonts_pt-summer-pavilion.css" crc="3824530138" ref="pt-summer-pavilion"/>
-    <file name="oporto-residence.css" crc="362625083" ref="oporto-residence"/>
-    <file name="nomq_oporto-residence.css" crc="65115051" ref="oporto-residence"/>
-    <file name="about.css" crc="3917740701" ref="about"/>
-    <file name="nomq_about.css" crc="271585256" ref="about"/>
-    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="pt-the-way-of-the-buyi.css" crc="4000429353" ref="pt-the-way-of-the-buyi"/>
-    <file name="nomq_pt-the-way-of-the-buyi.css" crc="4218034835" ref="pt-the-way-of-the-buyi"/>
-    <file name="iefonts_pt-the-way-of-the-buyi.css" crc="3824530138" ref="pt-the-way-of-the-buyi"/>
-    <file name="master-thesis.css" crc="162673970" ref="master-thesis"/>
+    <file name="master_a-master-en.css" crc="3960941467" ref="master-thesis:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence"/>
+    <file name="nomq_preview_master_a-master-en.css" crc="441950935" ref="master-thesis:urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence"/>
+    <file name="master_a-master.css" crc="3973097271" ref="pt-tese-de-mestrado:contacts:pt-neighbourhood:home-en:about-en:pt-centro-de-arte-urbana:pt-oporto-residence:pt-summer-pavilion:index:pt-the-way-of-the-buyi:about:pt-castelo-de-cartas"/>
+    <file name="nomq_preview_master_a-master.css" crc="148122826" ref="pt-tese-de-mestrado:contacts:pt-neighbourhood:home-en:about-en:pt-centro-de-arte-urbana:pt-oporto-residence:pt-summer-pavilion:index:pt-the-way-of-the-buyi:about:pt-castelo-de-cartas"/>
+    <file name="master-thesis.css" crc="58565469" ref="master-thesis"/>
     <file name="nomq_master-thesis.css" crc="143596438" ref="master-thesis"/>
-    <file name="urban-art.css" crc="4194048174" ref="urban-art"/>
+    <file name="urban-art.css" crc="279338778" ref="urban-art"/>
     <file name="nomq_urban-art.css" crc="3778413282" ref="urban-art"/>
-    <file name="pt-castelo-de-cartas.css" crc="128511712" ref="pt-castelo-de-cartas"/>
-    <file name="nomq_pt-castelo-de-cartas.css" crc="3991873745" ref="pt-castelo-de-cartas"/>
-    <file name="iefonts_pt-castelo-de-cartas.css" crc="3824530138" ref="pt-castelo-de-cartas"/>
-    <file name="contacts.css" crc="3998628" ref="contacts"/>
-    <file name="nomq_contacts.css" crc="446060479" ref="contacts"/>
-    <file name="iefonts_contacts.css" crc="3824530138" ref="contacts"/>
-    <file name="summer-pavilion.css" crc="3867256372" ref="summer-pavilion"/>
-    <file name="nomq_summer-pavilion.css" crc="3771587851" ref="summer-pavilion"/>
-    <file name="pt-tese-de-mestrado.css" crc="4143315860" ref="pt-tese-de-mestrado"/>
+    <file name="pt-tese-de-mestrado.css" crc="4147838442" ref="pt-tese-de-mestrado"/>
     <file name="nomq_pt-tese-de-mestrado.css" crc="59405332" ref="pt-tese-de-mestrado"/>
     <file name="iefonts_pt-tese-de-mestrado.css" crc="3824530138" ref="pt-tese-de-mestrado"/>
-    <file name="home-en.css" crc="4202202788" ref="home-en"/>
-    <file name="nomq_home-en.css" crc="128327287" ref="home-en"/>
-    <file name="iefonts_home-en.css" crc="3824530138" ref="home-en"/>
-    <file name="the-way-of-the-buyi.css" crc="306781880" ref="the-way-of-the-buyi"/>
-    <file name="nomq_the-way-of-the-buyi.css" crc="471707401" ref="the-way-of-the-buyi"/>
-    <file name="pt-neighbourhood.css" crc="4136305071" ref="pt-neighbourhood"/>
+    <file name="contacts.css" crc="3901752420" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="446060479" ref="contacts"/>
+    <file name="iefonts_contacts.css" crc="3824530138" ref="contacts"/>
+    <file name="summer-pavilion.css" crc="474470453" ref="summer-pavilion"/>
+    <file name="nomq_summer-pavilion.css" crc="3771587851" ref="summer-pavilion"/>
+    <file name="pt-neighbourhood.css" crc="4076582217" ref="pt-neighbourhood"/>
     <file name="nomq_pt-neighbourhood.css" crc="4229082040" ref="pt-neighbourhood"/>
     <file name="iefonts_pt-neighbourhood.css" crc="3824530138" ref="pt-neighbourhood"/>
+    <file name="home-en.css" crc="4231602713" ref="home-en"/>
+    <file name="nomq_home-en.css" crc="128327287" ref="home-en"/>
+    <file name="iefonts_home-en.css" crc="3824530138" ref="home-en"/>
+    <file name="the-way-of-the-buyi.css" crc="4105327022" ref="the-way-of-the-buyi"/>
+    <file name="nomq_the-way-of-the-buyi.css" crc="471707401" ref="the-way-of-the-buyi"/>
+    <file name="about-en.css" crc="50112924" ref="about-en"/>
+    <file name="nomq_about-en.css" crc="3950285948" ref="about-en"/>
+    <file name="iefonts_about-en.css" crc="3824530138" ref="about-en"/>
+    <file name="pt-centro-de-arte-urbana.css" crc="414470196" ref="pt-centro-de-arte-urbana"/>
+    <file name="nomq_pt-centro-de-arte-urbana.css" crc="433219425" ref="pt-centro-de-arte-urbana"/>
+    <file name="iefonts_pt-centro-de-arte-urbana.css" crc="3824530138" ref="pt-centro-de-arte-urbana"/>
+    <file name="castelo-de-cartas.css" crc="3936895774" ref="castelo-de-cartas"/>
+    <file name="nomq_castelo-de-cartas.css" crc="425752450" ref="castelo-de-cartas"/>
+    <file name="pt-oporto-residence.css" crc="15225208" ref="pt-oporto-residence"/>
+    <file name="nomq_pt-oporto-residence.css" crc="475883846" ref="pt-oporto-residence"/>
+    <file name="iefonts_pt-oporto-residence.css" crc="3824530138" ref="pt-oporto-residence"/>
+    <file name="pt-summer-pavilion.css" crc="142050895" ref="pt-summer-pavilion"/>
+    <file name="nomq_pt-summer-pavilion.css" crc="91202865" ref="pt-summer-pavilion"/>
+    <file name="iefonts_pt-summer-pavilion.css" crc="3824530138" ref="pt-summer-pavilion"/>
+    <file name="neighbourhood.css" crc="32241519" ref="neighbourhood"/>
+    <file name="nomq_neighbourhood.css" crc="4151897656" ref="neighbourhood"/>
+    <file name="index.css" crc="4053088227" ref="index"/>
+    <file name="nomq_index.css" crc="3807152233" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="pt-the-way-of-the-buyi.css" crc="4045077515" ref="pt-the-way-of-the-buyi"/>
+    <file name="nomq_pt-the-way-of-the-buyi.css" crc="4218034835" ref="pt-the-way-of-the-buyi"/>
+    <file name="iefonts_pt-the-way-of-the-buyi.css" crc="3824530138" ref="pt-the-way-of-the-buyi"/>
+    <file name="oporto-residence.css" crc="428540494" ref="oporto-residence"/>
+    <file name="nomq_oporto-residence.css" crc="65115051" ref="oporto-residence"/>
+    <file name="about.css" crc="259647006" ref="about"/>
+    <file name="nomq_about.css" crc="271585256" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="pt-castelo-de-cartas.css" crc="321152973" ref="pt-castelo-de-cartas"/>
+    <file name="nomq_pt-castelo-de-cartas.css" crc="3991873745" ref="pt-castelo-de-cartas"/>
+    <file name="iefonts_pt-castelo-de-cartas.css" crc="3824530138" ref="pt-castelo-de-cartas"/>
   </folder>
   <folder name="assets">
     <file name="dst_recommendation.png" crc="4201919930" seo="true" mt="1519650165000"/>
@@ -334,12 +334,12 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="bolas programas.png" crc="57280865" seo="true" ref="about:about-en">
-      <caption webpage="about" alt=""/>
       <caption webpage="about-en" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="bolas programas_2x.png" crc="534836797" seo="true" ref="about:about-en">
-      <caption webpage="about" alt=""/>
       <caption webpage="about-en" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="thumbnail_20180305_175607-1- copiar202x253.png" crc="4218026017" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -369,64 +369,64 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="seta.png" crc="3989355957" seo="true" ref="urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:pt-oporto-residence">
-      <caption webpage="urban-art" alt=""/>
-      <caption webpage="urban-art" alt=""/>
-      <caption webpage="castelo-de-cartas" alt=""/>
-      <caption webpage="castelo-de-cartas" alt=""/>
-      <caption webpage="pt-tese-de-mestrado" alt=""/>
-      <caption webpage="pt-tese-de-mestrado" alt=""/>
-      <caption webpage="the-way-of-the-buyi" alt=""/>
-      <caption webpage="the-way-of-the-buyi" alt=""/>
-      <caption webpage="neighbourhood" alt=""/>
-      <caption webpage="neighbourhood" alt=""/>
-      <caption webpage="pt-summer-pavilion" alt=""/>
-      <caption webpage="pt-summer-pavilion" alt=""/>
-      <caption webpage="pt-oporto-residence" alt=""/>
-      <caption webpage="pt-oporto-residence" alt=""/>
-      <caption webpage="pt-neighbourhood" alt=""/>
-      <caption webpage="pt-neighbourhood" alt=""/>
       <caption webpage="master-thesis" alt=""/>
       <caption webpage="master-thesis" alt=""/>
-      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
-      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
-      <caption webpage="oporto-residence" alt=""/>
-      <caption webpage="oporto-residence" alt=""/>
-      <caption webpage="summer-pavilion" alt=""/>
-      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="castelo-de-cartas" alt=""/>
+      <caption webpage="castelo-de-cartas" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
       <caption webpage="pt-castelo-de-cartas" alt=""/>
       <caption webpage="pt-castelo-de-cartas" alt=""/>
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
       <caption webpage="pt-the-way-of-the-buyi" alt=""/>
       <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
     </file>
     <file name="seta_2x.png" crc="476470332" seo="true" ref="urban-art:summer-pavilion:the-way-of-the-buyi:castelo-de-cartas:neighbourhood:oporto-residence:master-thesis:pt-centro-de-arte-urbana:pt-summer-pavilion:pt-the-way-of-the-buyi:pt-castelo-de-cartas:pt-tese-de-mestrado:pt-neighbourhood:pt-oporto-residence">
-      <caption webpage="urban-art" alt=""/>
-      <caption webpage="urban-art" alt=""/>
-      <caption webpage="castelo-de-cartas" alt=""/>
-      <caption webpage="castelo-de-cartas" alt=""/>
-      <caption webpage="pt-tese-de-mestrado" alt=""/>
-      <caption webpage="pt-tese-de-mestrado" alt=""/>
-      <caption webpage="the-way-of-the-buyi" alt=""/>
-      <caption webpage="the-way-of-the-buyi" alt=""/>
-      <caption webpage="neighbourhood" alt=""/>
-      <caption webpage="neighbourhood" alt=""/>
-      <caption webpage="pt-summer-pavilion" alt=""/>
-      <caption webpage="pt-summer-pavilion" alt=""/>
-      <caption webpage="pt-oporto-residence" alt=""/>
-      <caption webpage="pt-oporto-residence" alt=""/>
-      <caption webpage="pt-neighbourhood" alt=""/>
-      <caption webpage="pt-neighbourhood" alt=""/>
       <caption webpage="master-thesis" alt=""/>
       <caption webpage="master-thesis" alt=""/>
-      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
-      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
-      <caption webpage="oporto-residence" alt=""/>
-      <caption webpage="oporto-residence" alt=""/>
-      <caption webpage="summer-pavilion" alt=""/>
-      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="castelo-de-cartas" alt=""/>
+      <caption webpage="castelo-de-cartas" alt=""/>
+      <caption webpage="urban-art" alt=""/>
+      <caption webpage="urban-art" alt=""/>
       <caption webpage="pt-castelo-de-cartas" alt=""/>
       <caption webpage="pt-castelo-de-cartas" alt=""/>
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+      <caption webpage="pt-centro-de-arte-urbana" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
       <caption webpage="pt-the-way-of-the-buyi" alt=""/>
       <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+      <caption webpage="pt-summer-pavilion" alt=""/>
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+      <caption webpage="pt-tese-de-mestrado" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="pt-neighbourhood" alt=""/>
     </file>
     <file name="alçado_2500-crop-u7272.jpg" crc="32002394" seo="true" ref="urban-art">
       <caption webpage="urban-art" alt=""/>
@@ -687,7 +687,7 @@
     <file name="planta 1-200_1500px762x770.jpg" crc="4275701594" seo="true" ref="summer-pavilion">
       <caption webpage="summer-pavilion" alt=""/>
     </file>
-    <file name="m_imagem pri-crop-u21119.jpg" crc="454311007" seo="true" ref="summer-pavilion">
+    <file name="m_imagem pri-crop-u21119.jpg" crc="4066031330" seo="true" ref="summer-pavilion">
       <caption webpage="summer-pavilion" alt=""/>
     </file>
     <file name="m_imagem pri-crop-u21119_2x.jpg" crc="445928402" seo="true" ref="summer-pavilion">
@@ -702,7 +702,7 @@
     <file name="ima noite_1200px-crop-u67513.png" crc="453378161" seo="true" ref="summer-pavilion">
       <caption webpage="summer-pavilion" alt=""/>
     </file>
-    <file name="corte cortado-crop-u7595.png" crc="78546161" seo="true" ref="summer-pavilion">
+    <file name="corte cortado-crop-u7595.png" crc="4131056388" seo="true" ref="summer-pavilion">
       <caption webpage="summer-pavilion" alt=""/>
     </file>
     <file name="corte cortado-crop-u7595_2x.png" crc="4138285563" seo="true" ref="summer-pavilion">
@@ -759,35 +759,35 @@
     <file name="planta 1-200_1500px343x347.jpg" crc="4061616224" seo="true" ref="summer-pavilion">
       <caption webpage="summer-pavilion" alt=""/>
     </file>
-    <file name="m_1200 março-crop-u7722.png" crc="334451768" seo="true" ref="the-way-of-the-buyi">
+    <file name="m_1200 março-crop-u7722.png" crc="464683080" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt=""/>
     </file>
     <file name="books1_1200px378x346.jpg" crc="4038126865" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt=""/>
     </file>
     <file name="gif-half.gif" crc="513113133" seo="true" ref="the-way-of-the-buyi:pt-the-way-of-the-buyi">
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
     </file>
     <file name="gif-half_2x.gif" crc="513113133" seo="true" ref="the-way-of-the-buyi:pt-the-way-of-the-buyi">
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
-      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
       <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
+      <caption webpage="pt-the-way-of-the-buyi" alt=""/>
     </file>
     <file name="planta normal652x782.jpg" crc="4283887055" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt=""/>
@@ -801,7 +801,7 @@
     <file name="biblioteca final medium quality_2000px843x469_2x.png" crc="361974971" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt=""/>
     </file>
-    <file name="m_1200 março-crop-u77222.png" crc="79136122" seo="true" ref="the-way-of-the-buyi">
+    <file name="m_1200 março-crop-u77222.png" crc="43374295" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt=""/>
     </file>
     <file name="books1_1200px323x296.jpg" crc="4262730740" seo="true" ref="the-way-of-the-buyi">
@@ -979,20 +979,20 @@
       <caption webpage="castelo-de-cartas" alt=""/>
     </file>
     <file name="mapa final_site 1500px.jpg" crc="365152944" seo="true" ref="neighbourhood:pt-neighbourhood">
-      <caption webpage="neighbourhood" alt=""/>
       <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
     </file>
     <file name="mapa final_site 1500px_2x.jpg" crc="410565396" seo="true" ref="neighbourhood:pt-neighbourhood">
-      <caption webpage="neighbourhood" alt=""/>
       <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
     </file>
     <file name="diagram3_1500px.jpg" crc="489554131" seo="true" ref="neighbourhood:pt-neighbourhood">
-      <caption webpage="neighbourhood" alt=""/>
       <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
     </file>
     <file name="diagram3_1500px_2x.jpg" crc="4245510774" seo="true" ref="neighbourhood:pt-neighbourhood">
-      <caption webpage="neighbourhood" alt=""/>
       <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
     </file>
     <file name="diagram_1500602x350.jpg" crc="504473517" seo="true" ref="neighbourhood">
       <caption webpage="neighbourhood" alt=""/>
@@ -1040,12 +1040,12 @@
       <caption webpage="neighbourhood" alt=""/>
     </file>
     <file name="vista aerea_1800px.jpg" crc="29353557" seo="true" ref="neighbourhood:pt-neighbourhood">
-      <caption webpage="neighbourhood" alt=""/>
       <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
     </file>
     <file name="vista aerea_1800px_2x.jpg" crc="462988443" seo="true" ref="neighbourhood:pt-neighbourhood">
-      <caption webpage="neighbourhood" alt=""/>
       <caption webpage="pt-neighbourhood" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
     </file>
     <file name="mapa final_site 1500px703x485.jpg" crc="113436210" seo="true" ref="neighbourhood">
       <caption webpage="neighbourhood" alt=""/>
@@ -1110,7 +1110,7 @@
     <file name="vista aerea_1800px716x421_2x.jpg" crc="486185689" seo="true" ref="neighbourhood">
       <caption webpage="neighbourhood" alt=""/>
     </file>
-    <file name="mapa final_site 1500px-crop-u9487.jpg" crc="160927367" seo="true" ref="neighbourhood">
+    <file name="mapa final_site 1500px-crop-u9487.jpg" crc="4026860754" seo="true" ref="neighbourhood">
       <caption webpage="neighbourhood" alt=""/>
     </file>
     <file name="mapa final_site 1500px-crop-u9487_2x.jpg" crc="4205765892" seo="true" ref="neighbourhood">
@@ -1299,32 +1299,32 @@
     <file name="vista aerea_1800px336x198_2x.jpg" crc="4127644692" seo="true" ref="neighbourhood">
       <caption webpage="neighbourhood" alt=""/>
     </file>
-    <file name="3 ano_archi 21_final-crop-u21232.jpg" crc="485902121" seo="true" ref="oporto-residence">
+    <file name="3 ano_archi 21_final-crop-u21232.jpg" crc="467778540" seo="true" ref="oporto-residence">
       <caption webpage="oporto-residence" alt=""/>
     </file>
     <file name="corte alçado.jpg" crc="3764662440" seo="true" ref="oporto-residence:pt-oporto-residence">
-      <caption webpage="pt-oporto-residence" alt=""/>
       <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
     </file>
     <file name="corte alçado_2x.jpg" crc="3926514578" seo="true" ref="oporto-residence:pt-oporto-residence">
-      <caption webpage="pt-oporto-residence" alt=""/>
       <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
     </file>
     <file name="3 ano_archi 21 - imagem6.jpg" crc="20647065" seo="true" ref="oporto-residence:pt-oporto-residence">
-      <caption webpage="pt-oporto-residence" alt=""/>
       <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
     </file>
     <file name="3 ano_archi 21 - imagem6_2x.jpg" crc="514174840" seo="true" ref="oporto-residence:pt-oporto-residence">
-      <caption webpage="pt-oporto-residence" alt=""/>
       <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
     </file>
     <file name="planta.jpg" crc="3765536230" seo="true" ref="oporto-residence:pt-oporto-residence">
-      <caption webpage="pt-oporto-residence" alt=""/>
       <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
     </file>
     <file name="planta_2x.jpg" crc="3816534802" seo="true" ref="oporto-residence:pt-oporto-residence">
-      <caption webpage="pt-oporto-residence" alt=""/>
       <caption webpage="oporto-residence" alt=""/>
+      <caption webpage="pt-oporto-residence" alt=""/>
     </file>
     <file name="3 ano_archi 21_final-crop-u212322.jpg" crc="349367277" seo="true" ref="oporto-residence">
       <caption webpage="oporto-residence" alt=""/>
@@ -1971,23 +1971,23 @@
       <caption webpage="pt-oporto-residence" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3952762611" seo="true" mt="1520949215765" redirect="true"/>
-  <file name="about.html" crc="4117568022" seo="true" mt="1520949174214" redirect="true"/>
-  <file name="urban-art.html" crc="445572490" seo="true" mt="1520949202293" redirect="true"/>
-  <file name="summer-pavilion.html" crc="441031509" seo="true" mt="1520949202293" redirect="true"/>
-  <file name="the-way-of-the-buyi.html" crc="27989395" seo="true" mt="1520949202293" redirect="true"/>
-  <file name="castelo-de-cartas.html" crc="453823821" seo="true" mt="1520949460218" redirect="true"/>
-  <file name="neighbourhood.html" crc="213128753" seo="true" mt="1520949202293" redirect="true"/>
-  <file name="oporto-residence.html" crc="90484304" seo="true" mt="1520949202293" redirect="true"/>
-  <file name="master-thesis.html" crc="287279579" seo="true" mt="1520949202293" redirect="true"/>
-  <file name="contacts.html" crc="4119727014" seo="true" mt="1520935737967" redirect="true"/>
-  <file name="home-en.html" crc="4226913263" seo="true" mt="1520949170364" redirect="true"/>
-  <file name="pt-centro-de-arte-urbana.html" crc="120928992" seo="true" mt="1520935737967" redirect="true"/>
-  <file name="pt-summer-pavilion.html" crc="3780616617" seo="true" mt="1520941979195" redirect="true"/>
-  <file name="pt-the-way-of-the-buyi.html" crc="380056862" seo="true" mt="1520935751352" redirect="true"/>
-  <file name="pt-castelo-de-cartas.html" crc="4102524511" seo="true" mt="1520949471563" redirect="true"/>
-  <file name="pt-tese-de-mestrado.html" crc="4130218244" seo="true" mt="1520935737967" redirect="true"/>
-  <file name="pt-neighbourhood.html" crc="3978410084" seo="true" mt="1520942187570" redirect="true"/>
-  <file name="about-en.html" crc="427845576" seo="true" mt="1520949174217" redirect="true"/>
-  <file name="pt-oporto-residence.html" crc="4035056133" seo="true" mt="1520944025462" redirect="true"/>
+  <file name="index.html" crc="3869604875" seo="true" mt="1520949215765" redirect="true"/>
+  <file name="about.html" crc="227354090" seo="true" mt="1521028262726" redirect="true"/>
+  <file name="urban-art.html" crc="4067323083" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="summer-pavilion.html" crc="296813548" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="the-way-of-the-buyi.html" crc="177892929" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="castelo-de-cartas.html" crc="3766171287" seo="true" mt="1520949460218" redirect="true"/>
+  <file name="neighbourhood.html" crc="406371248" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="oporto-residence.html" crc="402597363" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="master-thesis.html" crc="233728517" seo="true" mt="1520949202293" redirect="true"/>
+  <file name="contacts.html" crc="94368490" seo="true" mt="1520935737967" redirect="true"/>
+  <file name="home-en.html" crc="348763023" seo="true" mt="1520949170364" redirect="true"/>
+  <file name="pt-centro-de-arte-urbana.html" crc="309675527" seo="true" mt="1521026700722" redirect="true"/>
+  <file name="pt-summer-pavilion.html" crc="3933029507" seo="true" mt="1521035532802" redirect="true"/>
+  <file name="pt-the-way-of-the-buyi.html" crc="4179487153" seo="true" mt="1521028123768" redirect="true"/>
+  <file name="pt-castelo-de-cartas.html" crc="321386432" seo="true" mt="1521035568810" redirect="true"/>
+  <file name="pt-tese-de-mestrado.html" crc="4209983487" seo="true" mt="1520935737967" redirect="true"/>
+  <file name="pt-neighbourhood.html" crc="4294706190" seo="true" mt="1521028197227" redirect="true"/>
+  <file name="about-en.html" crc="490805342" seo="true" mt="1520949174217" redirect="true"/>
+  <file name="pt-oporto-residence.html" crc="227060661" seo="true" mt="1521027283349" redirect="true"/>
 </manifest>
